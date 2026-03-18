@@ -1,0 +1,9 @@
+.env
+*.db
+reddit_pulse.db
+__pycache__/
+.bruin/
+.bruin.yml
+logs/runs
+logs/*.log
+*.py[cod]
