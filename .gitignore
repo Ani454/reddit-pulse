@@ -1,5 +1,6 @@
 .env
 *.db
+.streamlit/
 reddit_pulse.db
 __pycache__/
 .bruin/

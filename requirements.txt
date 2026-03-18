@@ -1,0 +1,7 @@
+bruin
+requests>=2.31.0
+pandas>=2.0.0
+vaderSentiment>=3.3.2
+duckdb>=1.0.0
+streamlit>=1.30.0
+plotly>=5.18.0
